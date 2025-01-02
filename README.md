@@ -18,7 +18,7 @@ I'm an MCA graduate with a passion for software development and technology. Curr
 
 <div align="center">
 
-## I Code & Design with
+# I Code & Design with
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +38,7 @@ I'm an MCA graduate with a passion for software development and technology. Curr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedashildev&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedashildev&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=muhammedashildev&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedashildev&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
 </p>
 
 </br>
