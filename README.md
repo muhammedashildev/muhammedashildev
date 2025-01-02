@@ -25,10 +25,8 @@ I'm an MCA graduate with a passion for software development and technology. Curr
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </p>
-</div> 
-
-##
-</br>
+</div>
+<br>
 
 ### 📊 GitHub Stats
 
