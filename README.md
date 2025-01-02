@@ -1,5 +1,3 @@
-![Ashil's Header](https://camo.githubusercontent.com/ab5687870591755d81eae1f4ea58b6ffacd7f12700a8ba862c2b54f3be33d403/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303061626630266865696768743d37302673656374696f6e3d686561646572)
-
 <div align="center">
   
   ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Muhammed+Ashil;Welcome+to+my+profile!&center=true&width=500&height=50&size=24)
@@ -34,3 +32,33 @@ I'm an MCA graduate with a passion for software development and technology. Curr
 
 ##
 </br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedashildev&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedashildev&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedashildev&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+</p>
+
+</br>
+
+### 🎯 Hobbies
+- 🌍 I enjoy traveling to explore new cultures and places. It inspires creativity and broadens my perspective as a developer.
+- 🎥 Watching YouTube videos helps me learn new things and stay updated on various topics.
+- 🍴 Food lover who enjoys trying out different cuisines and experimenting with recipes in my free time.
+
+##
+</br>
+
+
+### 👤 **Pronouns**: He/Him
+- 🧑🏽‍💼 I'm biologically male and identify as a man.
+
+</br>
+
+<div align="center">
+
+  ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect!&center=true&width=500&height=50&size=24)
+
+</div>
