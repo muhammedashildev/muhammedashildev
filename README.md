@@ -4,8 +4,6 @@
 
 </div>
 
-# Hi there! 👋 I'm Muhammed Ashil
-
 ## MCA Graduate
 
 I'm an MCA graduate with a passion for software development and technology. Currently, I work at Mantle Solutions, where I get to apply my expertise and continuously learn in a professional environment.
