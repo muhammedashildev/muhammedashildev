@@ -4,9 +4,7 @@
 
 </div>
 
-## MCA Graduate
-
-I'm an MCA graduate with a passion for software development and technology. Currently, I work at Mantle Solutions, where I get to apply my expertise and continuously learn in a professional environment.
+Hi, I'am Muhammed Ashil. I'm an MCA graduate with a passion for software development and technology. Currently, I work at Mantle Solutions, where I get to apply my expertise and continuously learn in a professional environment.
 
 [![Follow](https://img.shields.io/github/followers/muhammedashildev?label=👤%20Follow%20+&style=for-the-badge&color=blue&labelColor=blue)](https://github.com/ashif1996?tab=followers) &nbsp;&nbsp;
 [![Stars](https://img.shields.io/github/stars/muhammedashildev?label=⭐%20Stars&style=for-the-badge&color=green&labelColor=green)](https://github.com/ashif1996)
